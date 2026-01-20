@@ -4,6 +4,8 @@ dwani.ai Discovery - Agent Beats
 
 - GitHub - https://github.com/agentbeats
 
+- Agent Registry - https://agentbeats.dev/
+
 - Agentic AI MOOC - https://agenticai-learning.org/f25
 
 - AgentBeats Tutorial - https://github.com/RDI-Foundation/agentbeats-tutorial
